@@ -7,3 +7,4 @@ Exercícios de lógica de programação usando JavaScript.
 - Operadores lógicos
 - Variáveis
 - Cálculo de troco
+- Switch
